@@ -1,0 +1,21 @@
+.navbar{
+    background-color: chocolate;
+    padding: 0.2em 1em;
+}
+
+.profile-image{
+    margin: -10px 0px;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+}
+
+.nav-link{
+    font-weight: bold;
+    color:rgb(0, 0, 0) !important;
+}
+.dropdown-menu{
+    background-color: antiquewhite;
+    padding: 0;
+    margin: 0;
+}

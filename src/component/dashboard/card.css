@@ -1,0 +1,36 @@
+.card{
+    background: rgb(248, 244, 244) !important;
+    flex-direction: column;
+
+}
+
+.cardimg{
+    height: 50px;
+    object-fit: contain;
+}
+.cardtitle{
+    font-size: 20px;
+}
+
+.cardtext{
+    font-size: 15px;
+}
+
+.account{
+    background-color: rgb(33, 210, 241);
+}
+
+.deposit{
+    background-color: rgb(20, 201, 80);
+}
+
+.withdraw{
+    background-color: rgb(33, 158, 241);
+}
+
+.transfer{
+    background-color: rgb(251, 255, 14);
+}
+
+
+

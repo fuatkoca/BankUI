@@ -1,0 +1,103 @@
+/*-----------------------------------
+  Footer Area
+-----------------------------------*/
+.footer-area {
+    background-color: teal;
+    background-position: center;
+    background-size: cover;
+    margin-top: 5px;
+    z-index: 0;
+    padding: 30px 0 30px;
+  }
+  
+  .footer_logo {
+    width: 120px;
+    object-fit: contain;
+  }
+  
+  /*-----------------------------------
+    Widget
+  -----------------------------------*/
+  .widget {
+    margin-bottom: 30px;
+  }
+  
+  .widget p {
+    color: white;
+  }
+  
+  .widget-title {
+    color: white;
+    font-weight: 600;
+    font-size: 24px;
+  }
+  
+  .widget-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .widget-list li {
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 9px;
+  }
+  .widget-list li a {
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  
+  /*-----------------------------------
+    Social Area
+  -----------------------------------*/
+  
+  .social-area {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: inline-flex;
+  }
+  .social-area li a {
+    font-size: 18px;
+    height: 46px;
+    width: 46px;
+    border-radius: 50%;
+    background: white;
+    color: #083996;
+    display: inline-block;
+    line-height: 46px;
+    margin-left: 16px;
+    text-align: center;
+  }
+  
+  .social-area li a:hover {
+    background: #083996;
+    color: white;
+  }
+  
+  /*-----------------------------------
+   Footer Bottom
+  -----------------------------------*/
+  .footer-bottom {
+    padding: 29px 0;
+  }
+  
+  .footer-bottom ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: inline-flex;
+  }
+  
+  .footer-bottom ul li {
+    margin-right: 18px;
+    font-size: 18px;
+  }
+  
+  .footer-bottom .copy-right {
+    font-size: 18px;
+    color: #083996;
+  }
+  
